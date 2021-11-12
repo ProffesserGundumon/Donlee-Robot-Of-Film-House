@@ -105,18 +105,18 @@ async def help(bot, message):
         reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                         InlineKeyboardButton("🥳 My Owner", url="https://t.me/SBKUNJAVA"),
-                         InlineKeyboardButton("👥 Support", url="https://t.me/Film_House2")
+                         InlineKeyboardButton("🥳 My Owner", url="https://t.me/FILMHOUSE_Kerala2"),
+                         InlineKeyboardButton("👨‍🔬 My Creator", url="https://t.me/SBKUNJAVA")
                     ],
                     [
                          InlineKeyboardButton("📢 Updates", url="https://t.me/SB_Movies1"),
-                         InlineKeyboardButton("💢 ʏᴏᴜᴛᴜʙᴇ 💢", url="https://youtube.com/c/THCV20")
+                         InlineKeyboardButton("👥 Support", url="https://t.me/Film_House2")
                     ],
                     [
-                         InlineKeyboardButton("🤠 Status 🤠", callback_data="ooooooooo")
+                         InlineKeyboardButton("💢 ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ 💢", url="https://youtube.com/c/THCV20")
                     ],
                     [
-                         InlineKeyboardButton("🏕️ Home", callback_data="start"),
+                         InlineKeyboardButton("🏠 Home", callback_data="start"),
                          InlineKeyboardButton("🗑️ Close 🗑️", callback_data="close"),
                          InlineKeyboardButton("About 🔥", callback_data="about")
 
@@ -138,11 +138,11 @@ async def about(bot, message):
                     [
                          InlineKeyboardButton
                              (
-                                 "📦 Source", callback_data="source"
+                                 "🗣️ Source Code", url="https://t.me/joinchat/aYbIjDgZqY9lYjQ9
                              ),
                          InlineKeyboardButton
                              (
-                                 "Dev 🤠", callback_data="devmuhammed"
+                                 "Dev 🤠", url="https://t.me/FILMHOUSE_Kerala2
                              )
                     ],
                     [
