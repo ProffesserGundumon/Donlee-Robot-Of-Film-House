@@ -16,4 +16,3 @@ class Translation(object):
     SUB_TEXT = """JOIN, SHARE, MAXIMUM SUPPORT"""
     SPELLING_TEXT = """Hey {} Check Your Spelling"""
     STATUS_TEXT = """<b><u>Bot Status</u></b>\nTotal Users <b>{}</b>"""
-    SOURCE_TEXT = """<b><u>🥳 DONLEE SOURCE CODE</b></u>\n\n📦 REPOSITORY :- https://github.com/PR0FESS0R-99/DonLee-Robot-V2\n📺 DEPLOY VIDEO :- https://youtu.be/NrbMc93aCzA\n\n👩‍👩‍👧‍👧 DEVELOPER TEAM <a href="https://t.me/Mo_Tech_YT">Mo Tech</a>"""
