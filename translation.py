@@ -9,4 +9,3 @@ class Translation(object):
     GROUP_ADMIN_TEXT = """<b><u>Group Commands</u></b>\n\n<b><u>Bot Master</u></b>\n• /broadcast - Replay Any Message\n\n<b><u>Group Admin Only</u></b>\n• /ban - Reply Any User Text\n• /unban - Reply Banned User Text"""
     SUB_TEXT = """JOIN, SHARE, MAXIMUM SUPPORT"""
     SPELLING_TEXT = """Hey {} Check Your Spelling"""
-    STATUS_TEXT = """<b><u>Bot Status</u></b>\nTotal Users <b>{}</b>"""
